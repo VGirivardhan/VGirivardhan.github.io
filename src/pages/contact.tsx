@@ -120,7 +120,7 @@ export default function Contact(): JSX.Element {
                     {social.name === "LinkedIn" && "girivardhan-velpula"}
                     {social.name === "GitHub" && "VGirivardhan"}
                     {social.name === "LeetCode" && "vgirivardhan139"}
-                    {social.name === "GeeksforGeeks" && "vgirivardhan139"}
+                    {social.name === "GeeksforGeeks" && "girivardhan_velpula"}
                     {social.name === "HackerRank" && "vgirivardhan139"}
                   </span>
                 </a>
